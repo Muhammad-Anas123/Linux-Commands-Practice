@@ -17,9 +17,9 @@ This repository documents my hands-on practice with essential Linux commands. It
 
 ---
 
-## 🧪 Commands and Explanations
+##  Commands and Explanations
 
-### 🔐 Switching to Superuser
+###  Switching to Superuser
 ```bash
 sudo su
 ```
